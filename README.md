@@ -7,6 +7,7 @@ A curated list of internal tools
 - [Analytics, Events and Statistics](#analytics-events-and-statistics)
 - [Source Code Management](#source-code-management)
 - [Dashboards & Analytics](#dashboards--analytics)
+- [Automation](#automation)
 - [Payments](#payments)
 - [No/Low code platforms](#nolow-code-platforms)
 - [CMS](#cms)
@@ -67,6 +68,19 @@ A curated list of internal tools
 - [Sisense](https://www.sisense.com/)
 - [Redash](https://redash.io/)
 - [Grafana](https://grafana.com/)
+
+
+## Automation
+
+- [Integrately](https://integrately.com/)
+- [Zapier](https://zapier.com/)
+- [IFTTT](https://ifttt.com/)
+- [Make](https://www.make.com/)
+- [Workato](https://www.workato.com/)
+- [Tray](https://tray.io/)
+- [N8N](https://n8n.io/)
+- [ActivePieces](https://www.activepieces.com/)
+- [QuickWork](https://www.quickwork.co/)
 
 
 ## Payments
